@@ -1,0 +1,122 @@
+[
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 15189.51,
+        "vehicleId": 1
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 8846.73,
+        "vehicleId": 2
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 20251.11,
+        "vehicleId": 3
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 6258.81,
+        "vehicleId": 4
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 24274.47,
+        "vehicleId": 5
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 12292.05,
+        "vehicleId": 6
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 9723.39,
+        "vehicleId": 7
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 9810.67,
+        "vehicleId": 8
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 6901.84,
+        "vehicleId": 9
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 14132.77,
+        "vehicleId": 10
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 11968.87,
+        "vehicleId": 11
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 8046.43,
+        "vehicleId": 12
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 12872.00,
+        "vehicleId": 13
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 11482.20,
+        "vehicleId": 14
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 24196.83,
+        "vehicleId": 15
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 14496.64,
+        "vehicleId": 16
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 10283.32,
+        "vehicleId": 17
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 9426.80,
+        "vehicleId": 18
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 24890.05,
+        "vehicleId": 19
+    },
+    {
+        "_class" : "com.udacity.pricing.domain.price.Price",
+        "currency": "USD",
+        "price": 19532.73,
+        "vehicleId": 20
+    }
+]
